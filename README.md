@@ -161,6 +161,7 @@ absence of a ground truth.
 - [PathML](https://github.com/Dana-Farber-AIOS/pathml) - An open-source toolkit for computational pathology and machine learning.
 - [PAQUO](https://github.com/bayer-science-for-a-better-life/paquo) - A library for interacting with QuPath from Python.
 - [QuPath](https://qupath.github.io/) - Open source software for digital pathology image analysis.
+- [TissUUmMaps](https://github.com/TissUUmaps/TissUUmaps) - TissUUmaps is a browser-based tool for fast visualization and exploration of millions of data points overlaying a tissue sample. TissUUmaps can be used as a web service or locally in your computer, and allows users to share regions of interest and local statistics.
 
 ## Mycology
 - [DeepMushroom](https://github.com/Olament/DeepMushroom) - Image classification of fungus using ResNet.
